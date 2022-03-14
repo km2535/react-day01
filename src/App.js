@@ -1,7 +1,8 @@
 import "./App.css";
+import Todos from "./pages/Todos";
 
 function App() {
-  return "todolist 입니다.";
+  return <Todos />;
 }
 
 export default App;
